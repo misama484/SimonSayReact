@@ -108,7 +108,7 @@ const SimonGame = () => {
 
 
   return (
-    <div className="bg-neutral-800 flex justify-center items-center text-white w-screen h-screen">
+    <div className="bg-black flex justify-center items-center text-white w-screen h-screen">
       {/* Contenedor juego*/}
       <div className="flex flex-col justify-center items-center">
         {/* contenedor verde y rojo */}
